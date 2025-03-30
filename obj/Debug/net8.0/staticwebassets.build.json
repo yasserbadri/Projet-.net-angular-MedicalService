@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ivfqdx7bgb+ch//Bo6oSmoXfpHpSMb0EiUD1gvWjm4A=",
+  "Source": "MedicalAppointment",
+  "BasePath": "_content/MedicalAppointment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

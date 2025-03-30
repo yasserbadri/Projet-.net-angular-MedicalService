@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net\\MedicalAppointmentService\\MedicalAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9A84C9-EA69-41C1-ACF2-74E4BE2C3196}|MedicalAppointment.csproj|c:\\.net\\medicalappointmentservice\\medicalappointment\\medicalappointment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C9A84C9-EA69-41C1-ACF2-74E4BE2C3196}|MedicalAppointment.csproj|solutionrelative:medicalappointment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9A84C9-EA69-41C1-ACF2-74E4BE2C3196}|MedicalAppointment.csproj|c:\\.net\\medicalappointmentservice\\medicalappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9A84C9-EA69-41C1-ACF2-74E4BE2C3196}|MedicalAppointment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalAppointment",
+              "DocumentMoniker": "C:\\.net\\MedicalAppointmentService\\MedicalAppointment\\MedicalAppointment.csproj",
+              "RelativeDocumentMoniker": "MedicalAppointment.csproj",
+              "ToolTip": "C:\\.net\\MedicalAppointmentService\\MedicalAppointment\\MedicalAppointment.csproj*",
+              "RelativeToolTip": "MedicalAppointment.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T14:25:14.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.net\\MedicalAppointmentService\\MedicalAppointment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\.net\\MedicalAppointmentService\\MedicalAppointment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAABAMzMzMzMrwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:17:04.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
